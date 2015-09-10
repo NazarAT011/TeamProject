@@ -1,0 +1,32 @@
+[
+   {
+      "surname":"Kosar",
+      "age":26,
+      "course":"4"
+   },
+   {
+      "surname":"Kremin",
+      "age":15,
+      "course":"3"
+   },
+   {
+      "surname":"Chupil",
+      "age":25,
+      "course":"1"
+   },
+   {
+      "surname":"Dodik",
+      "age":10,
+      "course":"1"
+   },
+   {
+      "surname":"Dodik",
+      "age":10,
+      "course":"1"
+   },
+   {
+      "surname":"Bodik",
+      "age":18,
+      "course":"1"
+   }
+]
